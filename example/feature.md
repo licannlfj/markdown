@@ -12,5 +12,5 @@ This is [an example](http://example.com/ "Title") inline link.
 > id sem consectetuer libero luctus adipiscing.
 
 
-![1.png](/markdown/upload/20161017142703-78.png)
+                                              ![1.png](/markdown/upload/20161017142703-78.png)
 
