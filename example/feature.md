@@ -13,4 +13,7 @@ This is [an example](http://example.com/ "Title") inline link.
  <img src="/markdown/upload/20161017142703-78.png" width = "300" height = "200" alt="图片名称" align=center />
 
                                               ![1.png](/markdown/upload/20161017142703-78.png)
-
+![2.png](/markdown/upload/20161017143211-52.png)
+<center>居中对齐</center>
+<h1 style="text-align:center">居中对齐 <h1>
+<h1 style="text-align:right">居右对齐 <h1>
