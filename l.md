@@ -1,10 +1,9 @@
 
-
 # l
 -------------
 Publication
 -------------
-
+reerer
 Once you are happy with your document, you can publish it on different websites directly from StackEdit. As for now, StackEdit can publish on **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **Tumblr**, **WordPress** and on any SSH server.
 
 #### <i class="icon-upload"></i> Publish a document
@@ -40,3 +39,4 @@ Since one document can be published on multiple locations, you can list and mana
 ![logo.jpg](/markdown/upload/20161017140442-23.jpg)
 ![code-app.png](/markdown/upload/20161017140454-76.png)
 ![1.png](/markdown/upload/20161017140509-45.png)
+![code-app.png](/markdown/upload/20161017140546-62.png)
