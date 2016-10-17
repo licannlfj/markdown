@@ -1,3 +1,5 @@
+
+
 # l
 -------------
 Publication
@@ -23,6 +25,11 @@ After publishing, StackEdit will keep your document linked to that publication w
 
 #### <i class="icon-upload"></i> Manage document publication
 
+
+
+
+
+
 Since one document can be published on multiple locations, you can list and manage publish locations by clicking <i class="icon-upload"></i> **Manage publication** in the <i class="icon-provider-stackedit"></i> menu panel. This will let you remove publication locations that are associated to your document.
 
 > **Note:** If the file has been removed from the website or the blog, the document will no longer be published on that location.
@@ -30,3 +37,6 @@ Since one document can be published on multiple locations, you can list and mana
 ----------
 
 ![logo.png](/markdown/upload/20161017140344-27.png)
+![logo.jpg](/markdown/upload/20161017140442-23.jpg)
+![code-app.png](/markdown/upload/20161017140454-76.png)
+![1.png](/markdown/upload/20161017140509-45.png)
