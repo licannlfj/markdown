@@ -18,5 +18,4 @@ This is [an example](http://example.com/ "Title") inline link.
 
 <h1 style="text-align:right">居右对齐 <h1>
 
-                                              ![1.png](/markdown/upload/20161017142703-78.png)
 ![2.png](/markdown/upload/20161017143211-52.png)
