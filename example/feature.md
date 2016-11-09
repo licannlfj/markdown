@@ -19,3 +19,5 @@ This is [an example](http://example.com/ "Title") inline link.
 <h1 style="text-align:right">居右对齐 <h1>
 
 
+
+![Ubuntu分区.jpeg](/markdown/upload/20161108180743-33.jpeg)
